@@ -1,0 +1,8 @@
+REQUIREMENTS
+
+The following libraries need to be installed via pip to run this program.
+
+1. sys
+2. cfg
+3. pygame
+4. os
