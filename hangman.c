@@ -14,7 +14,7 @@ char guessedWord[MAX_WORD_LENGTH];
 int attemptsLeft;
 
 
-//hangman is a number guessing console based game, do play and enjoy the game. 
+//hangman is a number guessing console based game, do play and enjoy the game. Thank You
 // Initialize the game
 void initializeGame() {
     srand(time(NULL));
