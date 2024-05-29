@@ -13,6 +13,8 @@ char secretWord[MAX_WORD_LENGTH];
 char guessedWord[MAX_WORD_LENGTH];
 int attemptsLeft;
 
+
+//hangman is a number guessing console based game, do play and enjoy the game. 
 // Initialize the game
 void initializeGame() {
     srand(time(NULL));
@@ -44,6 +46,7 @@ int checkGuess(char guess) {
 }
 
 int main() {
+    
     char guess;
     int gameWon = 0;
 
