@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28.015" height="34.784" viewBox="0 0 28.015 34.784">
+  <g id="pick" transform="translate(-2.567 -3.369)">
+    <path id="Path_277" data-name="Path 277" d="M37.105,41.008H14.78a.815.815,0,0,1-.816-.816V10.879a.816.816,0,0,1,.816-.816H37.105a.815.815,0,0,1,.816.816V40.192A.815.815,0,0,1,37.105,41.008ZM15.6,39.376H36.289V11.694H15.6Z" transform="translate(-7.339 -2.855)" fill="#fff"/>
+    <path id="Path_282" data-name="Path 282" d="M13.685,1.4H.7A.7.7,0,0,1,.7,0H13.685a.7.7,0,1,1,0,1.4Z" transform="translate(19.354 15.313) rotate(90)" fill="#428efe"/>
+    <path id="Path_303" data-name="Path 303" d="M10.269,31.565a.694.694,0,0,1-.694-.694V5.932a.694.694,0,0,1,.694-.694H29.264a.694.694,0,1,1,0,1.388h-18.3V30.871A.694.694,0,0,1,10.269,31.565Z" transform="translate(-7.008 -1.869)" fill="#fff"/>
+    <path id="Path_304" data-name="Path 304" d="M14.15,19.872l4.458-4.458,4.458,4.458" fill="none" stroke="#428efe" stroke-linecap="round" stroke-width="1.5"/>
+  </g>
+</svg>
